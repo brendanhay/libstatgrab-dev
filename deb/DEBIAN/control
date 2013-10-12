@@ -1,0 +1,5 @@
+Package: libstatgrab-dev
+Version: <<VERSION_NUMBER>>+<<BUILD_NUMBER>>
+Maintainer: Brendan Hay <brendan.hay@wearezeta.com>
+Architecture: amd64
+Description: Custom libstatgrab development package

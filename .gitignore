@@ -1,0 +1,19 @@
+# Dirs
+dist
+tmp
+deb/usr
+
+# Artefacts
+*.tar.gz
+
+# Emacs/Vim
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+*.org
+
+# OSX
+.DS_Store
